@@ -1,0 +1,8 @@
+Data Analytics Problem : 
+
+Answer : Average Order Value (A0V) = $ 357.92 
+Total Order Amount = 15725640 
+                Total Items = 43936
+               Metric - Arithmetic Mean, total order amount divided by  Total of total no. of items present in each order
+
+

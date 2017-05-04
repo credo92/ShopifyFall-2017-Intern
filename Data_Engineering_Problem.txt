@@ -1,0 +1,9 @@
+DATA ENGINEERING PROBLEM:
+
+Inner Join : length of resulting array = 6 , Total_Orders(Barry and Steve) = 4
+
+Left Outer Join : length of resulting array = 7 , Total_Orders(Barry and Steve) = 4
+
+Right Outer Join : length of resulting array = 7 , Total_Orders(Barry and Steve) = 4
+
+Full Outer Join : length of resulting array =  8, Total_Orders(Barry and Steve) = 4
